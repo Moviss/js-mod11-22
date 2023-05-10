@@ -1,4 +1,4 @@
-# JS - Zajęcia #
+# JS - Zajęcia 22 - Składnia async/await
 
 ### Jak uruchomić?
 
